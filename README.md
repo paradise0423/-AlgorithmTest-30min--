@@ -25,7 +25,7 @@
 基于 Camel-AI 框架，让 Agent 调用自定义的 tool，对 prompt 做出回答
 ##
 
-**🪜参考步骤：**
+**📋 参考步骤：**
 
 step 1. 打开 Camel-AI 项目，配置环境，安装 camel
         
